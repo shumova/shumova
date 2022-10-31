@@ -1,5 +1,5 @@
 <h1>Hey there, I'm Mariia Shumova</h1>
-<p>Front-end Developer</p>
+<p>Front-end Development</p>
 
 - <a href="https://shumova.github.io/" target="_blank">Welcome to my page</a>
 - <a href="https://www.linkedin.com/in/shumova-mariia/" target="_blank">Connect on Linkedin</a>
