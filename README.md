@@ -4,7 +4,7 @@
 - <a href="https://shumova.github.io/" target="_blank">Welcome to my page</a>
 - <a href="https://www.linkedin.com/in/shumova-mariia/" target="_blank">Connect on Linkedin</a>
 - <a href="mailto:shumova.mariia@gmail.com" target="_blank">Write me an email</a>
-- <a href="https://shumova.github.io/files/Resume-Mariia-Shumova.pdf" target="_blank">Download my CV</a>
+- <a href="https://resume.io/r/CibjtnJI1" target="_blank">Download my CV</a>
 
 
 <!--
