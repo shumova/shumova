@@ -1,7 +1,7 @@
 <h1>Hey there, I'm Mariia Shumova</h1>
 <p>Front-end Development</p>
 
-- <a href="https://shumova.github.io/" target="_blank">Welcome to my page</a>
+- <a href="https://shumova.space/" target="_blank">Welcome to my page</a>
 - <a href="https://www.linkedin.com/in/shumova-mariia/" target="_blank">Connect on Linkedin</a>
 - <a href="mailto:shumova.mariia@gmail.com" target="_blank">Write me an email</a>
 - <a href="https://resume.io/r/CibjtnJI1" target="_blank">Download my CV</a>
