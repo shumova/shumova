@@ -1,20 +1,22 @@
-<h1>Hey there, I'm Mariia Shumova</h1>
-<p>Frontend developer</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/588369eb-d116-44eb-b12a-14838c1a123f" alt="freelancer"/>
+</div>
 
-- <a href="https://shumova.github.io/" target="_blank">Welcome to my page</a>
-- <a href="https://t.me/shumova_mariia" target="_blank">Connect on Telegram</a>
-- <a href="mailto:schumova.maria@gmail.com" target="_blank">Write me an email</a>
+<h1 align="center">Mariia Shumova</h1>
+<h3 align="center">FRONTEND DEVELOPER</h3>
+
+<div align="center">
+ <a href="https://shumova.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Welcome_to_my_page-8DB6CD?style=flat" alt="Welcome to my page"/></a>
+ <a href="https://t.me/shumova_mariia" target="_blank"><img src="https://img.shields.io/badge/-Connect_on_Telegram-9F9F92?style=flat" alt="Connect on Telegram"/></a>
+ <a href="mailto:schumova.maria@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Write_me_an_email-4F6D7A?style=flat" alt="Write me an email"/></a>
+</div>
 
 ---
-
-# 🚀 My Projects
-
-Collection of implemented projects with technology descriptions and links
 
 <table>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## New View
 
@@ -30,10 +32,10 @@ Online store of photo and video equipment. Working with data and an address bar 
 
 ### 🔗 Links 
 > **Live Site**: [new-view.vercel.app](https://new-view.vercel.app/catalog)  
-> **Source Code**: [new-view](https://github.com/shumova/new-view)
+> **Source Code**: [github.com/shumova/new-view)](https://github.com/shumova/new-view)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## Big Trip
 
@@ -49,8 +51,8 @@ Travel route and cost planning service. The application architecture is designed
 The project layout was done by another developer
 
 ### 🔗 Links
-> **Live Site**: [my-project.site](https://my-project.site)  
-> **Source Code**: [github.com/user/repo2](https://github.com/user/repo2)
+> **Live Site**: [shumova.space/big-trip](https://shumova.space/big-trip/)   
+> **Source Code**: [github.com/user/big-trip](https://github.com/shumova/big-trip)
 
 </td>
 </tr>
@@ -92,8 +94,12 @@ Task management dashboard with drag-and-drop interface and team collaboration.
 
 **🔗 Links**  
 [Live Demo](https://task-manager-app.netlify.app) | 
-[Source Code](https://github.com/user/repo4)
+[Source Code]([https://github.com/user/repo4](https://github.com/shumova/big-trip))
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/34dd86b3-3fe2-475d-9d81-db042ce8e492" alt="cat"/>
+</div>
