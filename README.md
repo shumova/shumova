@@ -13,6 +13,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,sass,less,tailwind,jest,figma,webpack,git&perline=6&theme=light" alt="tech stack">
+</p>
+
+---
+
 ### My projects
 
 <table>
