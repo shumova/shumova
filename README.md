@@ -59,44 +59,43 @@ The project layout was done by another developer
 </td>
 </tr>
 
-<!-- ROW 2 -->
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Project Name 3**  
-[![Project Screenshot](https://example.com/screenshot3.jpg)](https://ml-demo.streamlit.app)
+## Keksobooking
 
-**🛠️ Technologies**  
-- Language: Python  
-- ML Library: TensorFlow  
-- Visualization: Matplotlib  
-- API: FastAPI  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bc3880dc-6da2-4465-b262-cf4e0e748d0d" alt="Project screenshot" style="max-width: 100%; border-radius: 4px;">
+</div>
 
-**📝 Description**  
-ML application that predicts housing prices with interactive visualizations.
+### 🛠️ Technologies
+VanillaJS, Pristine, leaflet, no-ui-slider
 
-**🔗 Links**  
-[Live Demo](https://ml-demo.streamlit.app) | 
-[Source Code](https://github.com/user/repo3)
+### 📝 Description
+Real estate service. A form for adding an ad, validating the form with Pristine Validate, sending and receiving data from backend, filtering ads on an interactive leaflet map, debounce, linking the form with pin coordinates on a map with ability to move and receive real LAT & LNG. The project layout was done by another developer.
+
+### 🔗 Links
+> **Live Site**: [shumova.space/keksobooking](https://shumova.space/keksobooking/)  
+> **Source Code**: [github.com/shumova/keksobooking](https://github.com/shumova/keksobooking)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Project Name 4**  
-[![Project Screenshot](https://example.com/screenshot4.jpg)](https://task-manager-app.netlify.app)
+## Pognali
 
-**🛠️ Technologies**  
-- Framework: Vue.js  
-- State Management: Pinia  
-- Testing: Jest  
-- CI/CD: GitHub Actions  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1d5d661a-8935-418a-b887-e8a5bb0f1898" alt="Project screenshot" style="max-width: 100%; border-radius: 4px;">
+</div>
 
-**📝 Description**  
-Task management dashboard with drag-and-drop interface and team collaboration.
+### 🛠️ Technologies
+HTML, LESS, BEM, VanillaJS, Gulp
 
-**🔗 Links**  
-[Live Demo](https://task-manager-app.netlify.app) | 
-[Source Code]([https://github.com/user/repo4](https://github.com/shumova/big-trip))
+### 📝 Description
+A travel buddy website. Adaptive cross-browser layout, working with JS and without, automating assembly in Gulp: image optimization, using WebP, svg sprite, minification of styles, scripts, html
+
+### 🔗 Links
+> **Live Site**: [shumova.space/pognali](https://shumova.space/pognali/)  
+> **Source Code**: [github.com/shumova/pognali](https://github.com/shumova/pognali)
 
 </td>
 </tr>
