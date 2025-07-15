@@ -40,7 +40,7 @@ Online store of photo and video equipment. Working with data and an address bar 
 
 ### 🔗 Links 
 > **Live Site**: [new-view.vercel.app](https://new-view.vercel.app/catalog)  
-> **Source Code**: [github.com/shumova/new-view)](https://github.com/shumova/new-view)
+> **Source Code**: [github.com/shumova/new-view](https://github.com/shumova/new-view)
 
 </td>
 <td width="50%" valign="top">
