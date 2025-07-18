@@ -19,6 +19,29 @@
 
 ---
 
+**3 years of experience in building scalable web applications with React/TypeScript. Proven leader in driving frontend architecture, optimizing UX, and boosting team efficiency by up to 50%.**  
+
+### 💼 Work Experience  
+**Lead Frontend Developer** [Copperside](https://copperside.ru/) *(Jan 2024 – Present)*  
+- Led migration from vanilla JS to **React, TypeScript, Next.js, FSD architecture** for a banking guarantees SaaS.  
+- Reduced agent request time by 40% via code refactoring; cut bank operation time 50% through MVP enhancements.  
+- Built a reusable design system adopted across banking ecosystem projects.  
+
+**Middle Frontend Developer** [Liga A](https://ligaa.agency/) *(Apr 2023 – Dec 2023)*  
+- Developed B2B logistics management system using **React, TypeScript, Redux**.  
+- Delivered key features: driver/fleet databases, fuel analytics dashboards, and remote refueling for 10k+ users.  
+- Optimized UI/UX via REST API integrations and cross-browser adaptive layouts.  
+
+**Junior Frontend Developer** [Liga A](https://ligaa.agency/) *(Sep 2022 – Apr 2023)*  
+- Built 6 e-commerce projects with **vanilla JS, Webpack, SASS**, including product catalogs, carts, and review systems.  
+- Implemented pixel-perfect, WCAG-compliant frontends for industrial clients.  
+
+### 🎓 Education & Certificates  
+- **MSc Software Engineering** Bauman Moscow State Tech *(2027)*  
+- **Frontend Architecture**, **Design Systems** HTML Academy *(2023)*  
+- **BSc Corporate Management** State University of Management *(2013)*  
+---
+
 ### My projects
 
 <table>
