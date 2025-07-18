@@ -23,7 +23,8 @@
 
 ### 💼 Work Experience  
 **Lead Frontend Developer** [Copperside](https://copperside.ru/) *(Jan 2024 – Present)*  
-- Increased issuing bank guarantees speed by more than 50% through updating business logic, implementing new features and refactoring MVP of a banking guarantees SaaS.  
+Project: banking guarantees SaaS
+- Increased issuing bank guarantees speed by more than 50% through updating business logic, implementing new features and refactoring.  
 - Led migration from vanilla JS to **React, TypeScript, Next.js, FSD architecture**.  
 - Built a reusable design system adopted across banking ecosystem projects.  
 
